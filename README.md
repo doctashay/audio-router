@@ -1,5 +1,7 @@
 # Audio Router
 
+### Shay's note: I hate using VoiceMeter or CheVolume but I also want to fix a number of issues with this application so I figured I might as well do it myself. The goal is here simple quality of life improvements and bug fixes/maintenance now that the main developer has retired this application.
+
 I created a similar app that does exactly what CheVolume does, except this is free at least for now. I tried to make a public post about it here on /r/software, but apparently they don't allow any download links to unknown apps in a text post.
 
 If you want to test it out, [here's the download link (64-bit).](https://github.com/audiorouterdev/audio-router/releases/download/v0.10.2/AudioRouter-0.10.2.zip)
